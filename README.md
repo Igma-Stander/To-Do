@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## My Project
 
-In this project I created an aplication to track your to-do tasks. You can add, edit, delete and mark your tasks as complete.
+In this project I created an application to track your to-do tasks. You can add, edit, delete and mark your tasks as complete.
 
 ## Installation
 
